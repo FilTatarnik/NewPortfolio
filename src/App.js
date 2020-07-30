@@ -104,7 +104,7 @@ import { css } from "styled-components/macro"; //eslint-disable-line
 import ComponentRenderer from "ComponentRenderer.js";
 import MainLandingPage from "MainLandingPage.js";
 
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 import BackgroundAsImage from "components/hero/BackgroundAsImage";
 import MiniCenteredFooter from "components/footers/MiniCenteredFooter";
 import VerticalWithAlternateImageAndText from "components/features/VerticalWithAlternateImageAndText";
@@ -112,7 +112,7 @@ import VerticalWithAlternateImageAndText from "components/features/VerticalWithA
 export default function App() {
   // return <AnimationRevealPage disabled></AnimationRevealPage>;
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route path="/components/:type/:subtype/:name">
           <ComponentRenderer />
