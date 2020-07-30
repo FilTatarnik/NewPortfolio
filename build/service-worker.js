@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FilTatarnik/NewPortfolio/precache-manifest.1b28486f3625070a3b3a5cff32457e78.js"
+  "/FilTatarnik/NewPortfolio/precache-manifest.af45cf4b165f83cebc9f7492067b2ce3.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "727e22713a1b48aa7d69fb70604ea3ed",
+    "revision": "48a99af69e61483b4d0ebd9b029399d6",
     "url": "/FilTatarnik/NewPortfolio/index.html"
   },
   {
-    "revision": "f491b08171b9ce1d0ebe",
+    "revision": "802c6c1f8b8400891192",
     "url": "/FilTatarnik/NewPortfolio/static/css/2.6011fe8e.chunk.css"
   },
   {
-    "revision": "44f7b7a68580376dea96",
+    "revision": "44c9cde63d7c95133f4b",
     "url": "/FilTatarnik/NewPortfolio/static/css/main.00770f9f.chunk.css"
   },
   {
-    "revision": "f491b08171b9ce1d0ebe",
-    "url": "/FilTatarnik/NewPortfolio/static/js/2.e5f2d942.chunk.js"
+    "revision": "802c6c1f8b8400891192",
+    "url": "/FilTatarnik/NewPortfolio/static/js/2.eda8b909.chunk.js"
   },
   {
     "revision": "43842755bb4daadbbdc664990671d25e",
-    "url": "/FilTatarnik/NewPortfolio/static/js/2.e5f2d942.chunk.js.LICENSE.txt"
+    "url": "/FilTatarnik/NewPortfolio/static/js/2.eda8b909.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "44f7b7a68580376dea96",
-    "url": "/FilTatarnik/NewPortfolio/static/js/main.96a8c712.chunk.js"
+    "revision": "44c9cde63d7c95133f4b",
+    "url": "/FilTatarnik/NewPortfolio/static/js/main.22d37608.chunk.js"
   },
   {
     "revision": "06c492977f1435b54647",
