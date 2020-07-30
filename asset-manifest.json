@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/FilTatarnik/NewPortfolio/static/css/main.00770f9f.chunk.css",
-    "main.js": "/FilTatarnik/NewPortfolio/static/js/main.96a8c712.chunk.js",
-    "main.js.map": "/FilTatarnik/NewPortfolio/static/js/main.96a8c712.chunk.js.map",
+    "main.js": "/FilTatarnik/NewPortfolio/static/js/main.22d37608.chunk.js",
+    "main.js.map": "/FilTatarnik/NewPortfolio/static/js/main.22d37608.chunk.js.map",
     "runtime-main.js": "/FilTatarnik/NewPortfolio/static/js/runtime-main.06e92195.js",
     "runtime-main.js.map": "/FilTatarnik/NewPortfolio/static/js/runtime-main.06e92195.js.map",
     "static/css/2.6011fe8e.chunk.css": "/FilTatarnik/NewPortfolio/static/css/2.6011fe8e.chunk.css",
-    "static/js/2.e5f2d942.chunk.js": "/FilTatarnik/NewPortfolio/static/js/2.e5f2d942.chunk.js",
-    "static/js/2.e5f2d942.chunk.js.map": "/FilTatarnik/NewPortfolio/static/js/2.e5f2d942.chunk.js.map",
+    "static/js/2.eda8b909.chunk.js": "/FilTatarnik/NewPortfolio/static/js/2.eda8b909.chunk.js",
+    "static/js/2.eda8b909.chunk.js.map": "/FilTatarnik/NewPortfolio/static/js/2.eda8b909.chunk.js.map",
     "index.html": "/FilTatarnik/NewPortfolio/index.html",
-    "precache-manifest.1b28486f3625070a3b3a5cff32457e78.js": "/FilTatarnik/NewPortfolio/precache-manifest.1b28486f3625070a3b3a5cff32457e78.js",
+    "precache-manifest.af45cf4b165f83cebc9f7492067b2ce3.js": "/FilTatarnik/NewPortfolio/precache-manifest.af45cf4b165f83cebc9f7492067b2ce3.js",
     "service-worker.js": "/FilTatarnik/NewPortfolio/service-worker.js",
     "static/css/2.6011fe8e.chunk.css.map": "/FilTatarnik/NewPortfolio/static/css/2.6011fe8e.chunk.css.map",
     "static/css/main.00770f9f.chunk.css.map": "/FilTatarnik/NewPortfolio/static/css/main.00770f9f.chunk.css.map",
-    "static/js/2.e5f2d942.chunk.js.LICENSE.txt": "/FilTatarnik/NewPortfolio/static/js/2.e5f2d942.chunk.js.LICENSE.txt",
+    "static/js/2.eda8b909.chunk.js.LICENSE.txt": "/FilTatarnik/NewPortfolio/static/js/2.eda8b909.chunk.js.LICENSE.txt",
     "static/media/AboutUsPage.jpeg": "/FilTatarnik/NewPortfolio/static/media/AboutUsPage.3722f7e7.jpeg",
     "static/media/AgencyLandingPage.jpeg": "/FilTatarnik/NewPortfolio/static/media/AgencyLandingPage.df4fcdeb.jpeg",
     "static/media/BlogIndexPage.jpeg": "/FilTatarnik/NewPortfolio/static/media/BlogIndexPage.7e8818a2.jpeg",
@@ -106,8 +106,8 @@
   "entrypoints": [
     "static/js/runtime-main.06e92195.js",
     "static/css/2.6011fe8e.chunk.css",
-    "static/js/2.e5f2d942.chunk.js",
+    "static/js/2.eda8b909.chunk.js",
     "static/css/main.00770f9f.chunk.css",
-    "static/js/main.96a8c712.chunk.js"
+    "static/js/main.22d37608.chunk.js"
   ]
 }
